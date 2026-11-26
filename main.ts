@@ -5,7 +5,7 @@ import { writeFileSync, mkdirSync } from "node:fs";
 import { join } from "node:path";
 
 const line =
-  "He brings paper every day and never once brings the ball, so I shredded his last delivery and left it on the porch as my review. One star, would shred again.";
+  "He brings paper every day and never once brings the ball, so I shredded today's delivery and left the pieces on his doormat as my review. One star, would shred again.";
 
 const outDir = process.env.MAKEFUN_OUTPUT_DIR ?? "/output";
 mkdirSync(outDir, { recursive: true });

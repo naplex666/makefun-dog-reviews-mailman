@@ -28,3 +28,8 @@ First difference is (2), so B wins — and B also wins (4), the turn.
 > He brings paper every day and never once brings the ball, so I shredded his last delivery and left it on the porch as my review. One star, would shred again.
 
 Why it wins: the grievance is a dog's (the ball, not the mail), the triumph is a dog's (shredding paper), and the punchline is the review itself — the thing he shredded is the thing he left as his review. One sentence, one breath, no explaining, and the turn earns the laugh at the end.
+
+## Revision (thinking_revised gate)
+> He brings paper every day and never once brings the ball, so I shredded today's delivery and left the pieces on his doormat as my review. One star, would shred again.
+
+Why the edit: three small tightenings that make the same joke land harder. "Today's delivery" instead of "his last delivery" makes it immediate — the review was just filed. "The pieces" instead of "it" makes the shredding visible: what is left on the mat is visibly the shredded mail. "His doormat" instead of "the porch" aims the review at him — the punchline is now delivered to his door, not left somewhere neutral. That sharpens criterion (2) (the triumph is acted out more concretely) and criterion (4) (the turn lands harder, because the review is physically on his mat), while keeping the same meaning, the same turn, one sentence, one breath.
