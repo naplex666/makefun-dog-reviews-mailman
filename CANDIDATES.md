@@ -143,3 +143,12 @@ bag smells of the whole street. 110 chars, one sentence, one breath.
 Nothing copied from #802 or #806: no doorbell, no bark-once, no star
 reversal, no "properly sniffed" — the smell angle is used differently
 (jealousy over other dogs, not praise of good smells).
+
+## Second revision (thinking_revised gate, parent session)
+> His bag smells of every dog on my street, so I shredded his mail and left the pieces on his mat. One star — he cheats.
+
+Why the edit: "the pieces" instead of "it" makes the shredding visible —
+what is left on the mat is visibly the shredded mail, same tightening that
+sharpened the round-1 line. That sharpens criterion (2) (the triumph is
+acted out more concretely) while keeping the same joke, the same turn, one
+sentence, one breath. 118 chars.
